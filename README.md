@@ -1,9 +1,9 @@
-
+#Índice
 * [<h1 align="center"> Conversor De Monedas</h1>
 ![Conversor De Monedas](https://github.com/user-attachments/assets/5013c32e-0f14-46cc-9987-40f882966912)](#Título-e-imagen-de-portada)
 
 
-* [Insignias](#insignias)
+* [![insignia Terminado](https://img.shields.io/badge/Estado-Terminado-green)](#insignias)
 
 * [Índice](#índice)
 

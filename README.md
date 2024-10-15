@@ -5,22 +5,21 @@
 
 * [![insignia Terminado](https://img.shields.io/badge/Estado-Terminado-green)](#insignias)
 
-* [Índice](#índice)
+* [<h1 align="lef">Índice</h1>](#índice)
 
-* [Descripción del proyecto](#descripción-del-proyecto)
+* [<h1 align="lef">Descripción del proyecto</h1>
+El  siguiente proyecto es un  convertidor de monedas realizado en java el caul por medio de una API de exchangerate recibe los datos de la conversion entre dos  codigos de monedas de diversos paises y nos da el resultado de estas conversiones la cuales quedan guardadas en un historial de conversiones y se genera un archivo.json con este historial.](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+* [<h1 align="lef">Características de la aplicación y demostración</h1>](#Características-de-la-aplicación-y-demostración)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Acceso al proyecto](#acceso-proyecto)
 
-*[Acceso al proyecto](#acceso-proyecto)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Personas Contribuyentes](#personas-contribuyentes)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
 * [Licencia](#licencia)
 
-*[Conclusión](#conclusión)
+* [Conclusión](#conclusión)

@@ -20,23 +20,9 @@ El  siguiente proyecto es un  convertidor de monedas realizado en java el caul p
 4-)La segunda opcion nos convierte un valor entre dos modenas de distintos paises ejemplo:USD a COP
   ![image](https://github.com/user-attachments/assets/ac187a6f-e95e-4115-a9b1-aefebedd7088)
 5-)La tercera opcion nos da un historial de las conversiones realizadas
-  
+  ![image](https://github.com/user-attachments/assets/c814d5f6-ae9a-4d94-b6e9-3020d74f7748)
+6-)se genera un archivo.json con el historial de las conversiones realizadas
+  ![image](https://github.com/user-attachments/assets/ee625408-bc48-4c0c-a47a-f8b76f14574a)
+7-)La ultima opcion salir finaliza el porgrama
+  ![image](https://github.com/user-attachments/assets/32fe1aae-2e49-4197-a811-11d9c30f2db2)](#Demostración)
 
-
-
-
-
-
-](#Demostración)
-
-* [Acceso al proyecto](#acceso-proyecto)
-
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
-
-* [Personas Contribuyentes](#personas-contribuyentes)
-
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-* [Conclusión](#conclusión)
